@@ -1,0 +1,12 @@
+{
+  "name": "jwu-404-mimic-site",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Crawler QA mimic of a JWU event page with deterministic HTTP 404 links",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
